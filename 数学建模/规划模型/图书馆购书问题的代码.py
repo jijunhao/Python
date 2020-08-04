@@ -1,6 +1,8 @@
 import numpy as np
 import math
-from scipy.optimize import fmin,minimize
+from scipy.optimize import minimize
+import warnings
+warnings.filterwarnings("ignore")
 A = np.array([2000.,1400,600,3800,800,900,500,1000,600,500,400,100])  # 各个类别的书想要看的人数
 def fun_1(n):
     m = np.array([30.]*12)                   # 每种类型书的平均价格，全都定义为30元
@@ -37,3 +39,5 @@ if __name__ == '__main__':
     res = minimize(fun_2, n0, bounds=bounds)
     print("解为",res.x)
     print("功效函数值",-res.fun)
+    print("学校购书的功效系数",(fun_1(A)[0] - fun_1(res.x)[0]) / fun_1(A)[0])
+    print("学生满意度的功效系数",fun_1(res.x)[1])
