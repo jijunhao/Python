@@ -9,9 +9,9 @@
 class Student:
 
     def __init__(self,name,age,score):
-     self.name=name
-     self.age=age
-     self.score = score
+        self.name=name
+        self.age=age
+        self.score = score
 
     def get_name(self):
         return (str(self.name))
