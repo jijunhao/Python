@@ -6,7 +6,7 @@
 ②获取学生的年龄：get_age() 返回类型:int
 ③返回3门科目中最高的分数。get_course() 返回类型:int
 """
-class Student:
+class Student():
 
     def __init__(self,name,age,score):
         self.name=name
