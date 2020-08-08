@@ -14,7 +14,7 @@ if __name__ == '__main__':
     smtpserver = 'smtp.qq.com'
     username = '2818657803@qq.com'
     password = ''
-    mail_title = '统计学第10章作业批改'
+    mail_title = ''
     service = smtplib.SMTP_SSL(host='smtp.qq.com')
     service.connect(host='smtp.qq.com', port=465)
     service.login(username, password)
