@@ -1,0 +1,8 @@
+"""
+编写一个numpy 程序将数组a, b 分别沿0 轴和1 轴进行拼接
+"""
+import numpy as np
+a = np.array([1,1,2,3,3,4,5,6])
+b = np.array([2,3,4,5,2,4,2,1])
+print(np.append(a, b))
+print(np.stack((a, b)))
