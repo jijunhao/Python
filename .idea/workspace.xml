@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8368ea03-cc96-48aa-8916-37455dedfbf7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/统计学习理论/heart.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/base.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/统计学习理论/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/统计学习理论/Untitled.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/统计学习理论/heart_scale.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/统计学习理论/heart_scale.png" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/统计学习理论/.ipynb_checkpoints/fourclass-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/统计学习理论/fourclass.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/统计学习理论/fourclass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/统计学习理论/fourclass.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/统计学习理论/fourclass_scale.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/统计学习理论/fourclass_testing.t" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/统计学习理论/fourclass_training.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/统计学习理论/fourclass_training.txt.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/统计学习理论/fourclass_training.txt.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/统计学习理论/heart.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/统计学习理论/heart_scale" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,11 +42,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1m1AZ9u9YiEXMJXFriwzx42bs2w" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -89,6 +98,8 @@
       <workItem from="1608651126380" duration="624000" />
       <workItem from="1608652346934" duration="118000" />
       <workItem from="1608652694083" duration="221000" />
+      <workItem from="1608653098176" duration="67000" />
+      <workItem from="1609419801117" duration="473000" />
     </task>
     <servers />
   </component>
@@ -106,6 +117,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python$heart.coverage" NAME="heart Coverage Results" MODIFIED="1608651680652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/统计学习理论" />
