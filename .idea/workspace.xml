@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8368ea03-cc96-48aa-8916-37455dedfbf7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/统计学习理论/.ipynb_checkpoints/fourclass-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/统计学习理论/fourclass.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/统计学习理论/fourclass.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/统计学习理论/fourclass.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/统计学习理论/fourclass_scale.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/统计学习理论/fourclass_testing.t" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/统计学习理论/fourclass_training.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/统计学习理论/fourclass_training.txt.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/统计学习理论/fourclass_training.txt.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/统计学习理论/heart.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/统计学习理论/heart_scale" beforeDir="false" />
-    </list>
+    <list default="true" id="8368ea03-cc96-48aa-8916-37455dedfbf7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +41,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tensorflow" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -100,6 +87,7 @@
       <workItem from="1608652694083" duration="221000" />
       <workItem from="1608653098176" duration="67000" />
       <workItem from="1609419801117" duration="473000" />
+      <workItem from="1610694323337" duration="86000" />
     </task>
     <servers />
   </component>
