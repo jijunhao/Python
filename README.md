@@ -26,7 +26,7 @@ git clone https://github.com/jijunhao/Python.git
 
 ### 版权说明
 
-该项目签署了MIT 授权许可，详情请参阅 [LICENSE.txt](https://github.com/jijunhao/git-skills/blob/main/LICENSE.txt)
+该项目签署了MIT 授权许可，详情请参阅 [LICENSE.txt](https://github.com/jijunhao/Python/blob/main/LICENSE)
 
 <!-- links -->
 
