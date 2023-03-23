@@ -22,8 +22,6 @@ git clone https://github.com/jijunhao/Python.git
 
 2. 直接下载压缩包
 
-### 目录结构
-
 
 
 ### 版权说明
