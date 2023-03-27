@@ -22,7 +22,7 @@ git clone https://github.com/jijunhao/Python.git
 
 2. 直接下载压缩包
 
-
+> 不保证是否有BUG
 
 ### 版权说明
 
